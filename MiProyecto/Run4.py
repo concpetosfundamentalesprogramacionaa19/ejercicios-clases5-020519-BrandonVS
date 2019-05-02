@@ -12,7 +12,7 @@
 
 """
 # Se piden los datos al usuario
-ciclos = input("Ingrese la modalidad del estudiante (Presencial o Distancia): ")
+ciclos = input("Ingrese la modalidad (Presencial o Distancia): ")
 edad = input("Ingrese la edad del estudiante: ")
 edad = float(edad)
 costo = 0
